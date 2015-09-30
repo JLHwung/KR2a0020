@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 104
+#+DATE: 2015-08-24 22:20:34.763408
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百四
 <pb:KR2a0020_WYG_104-1a>¶
 欽定四庫全書¶
 　魏書卷一百四¶
@@ -164,6 +166,7 @@
 　¶
 　¶
 　魏書卷一百四¶
+#+PROPERTY: JUAN 卷一百四考證
 <pb:KR2a0020_WYG_104-10a>¶
 　魏書卷一百四考證¶
 自序專總斟酌○專監本誤𫝊今改從北史¶
@@ -182,4 +185,3 @@
 　¶
 　¶
 　魏書卷一百四考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 55
+#+DATE: 2015-08-24 22:20:33.690065
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十五
 <pb:KR2a0020_WYG_055-1a>¶
 欽定四庫全書¶
 　魏書卷五十五¶
@@ -488,6 +490,7 @@
 　¶
 　¶
 　魏書卷五十五¶
+#+PROPERTY: JUAN 卷五十五考證
 <pb:KR2a0020_WYG_055-28a>¶
 　魏書卷五十五考證¶
 游明根傳游明根字志逺廣平任人也○(臣人龍/)按本¶
@@ -506,4 +509,3 @@
 　¶
 　¶
 　魏書卷五十五考證¶
-

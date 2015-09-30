@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:20:32.819428
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR2a0020_WYG_011-1a>¶
 欽定四庫全書¶
 　魏書卷十一¶
@@ -470,6 +472,7 @@
 　¶
 　¶
 　魏書卷十一¶
+#+PROPERTY: JUAN 卷十一考證
 <pb:KR2a0020_WYG_011-27a>¶
 　魏書卷十一考證¶
 前廢帝紀詔隴西王尒朱天光下文武討宿勤明逹○¶
@@ -488,4 +491,3 @@
 　¶
 　¶
 　魏書卷十一考證¶
-

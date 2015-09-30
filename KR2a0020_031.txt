@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 31
+#+DATE: 2015-08-24 22:20:33.204270
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十一
 <pb:KR2a0020_WYG_031-1a>¶
 欽定四庫全書¶
 　魏書卷三十一¶
@@ -344,6 +346,7 @@
 　¶
 　¶
 　魏書卷三十一¶
+#+PROPERTY: JUAN 卷三十一考證
 <pb:KR2a0020_WYG_031-20a>¶
 　魏書卷三十一考證¶
 于栗磾傳詔忠與吏部尚書元暉度支尚書元匡河南¶
@@ -362,4 +365,3 @@
 　¶
 　¶
 　魏書卷三十一考證¶
-

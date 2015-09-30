@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 86
+#+DATE: 2015-08-24 22:20:34.342010
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十六
 <pb:KR2a0020_WYG_086-1a>¶
 欽定四庫全書¶
 　魏書卷八十六¶
@@ -128,6 +130,7 @@
 　¶
 　¶
 　魏書卷八十六¶
+#+PROPERTY: JUAN 卷八十六考證
 <pb:KR2a0020_WYG_086-8a>¶
 　魏書卷八十六考證¶
 列𫝊第七十四○魏收書孝感𫝊亡惟張昇事出宗諫¶
@@ -146,4 +149,3 @@
 　¶
 　¶
 　魏書卷八十六考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 78
+#+DATE: 2015-08-24 22:20:34.161573
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十八
 <pb:KR2a0020_WYG_078-1a>¶
 欽定四庫全書¶
 　魏書卷七十八¶
@@ -578,6 +580,7 @@
 惠明達典故彊直從官侃然不撓其有王臣之風矣¶
 　¶
 　魏書卷七十八¶
+#+PROPERTY: JUAN 卷七十八考證
 <pb:KR2a0020_WYG_078-33a>¶
 　魏書卷七十八考證¶
 張普惠𫝊何以不逺謨古義○謨應作模¶
@@ -596,4 +599,3 @@
 　¶
 　¶
 　魏書卷七十八考證¶
-

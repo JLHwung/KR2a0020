@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 75
+#+DATE: 2015-08-24 22:20:34.108074
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十五
 <pb:KR2a0020_WYG_075-1a>¶
 欽定四庫全書¶
 　魏書卷七十五¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　魏書卷七十五¶
+#+PROPERTY: JUAN 卷七十五考證
 <pb:KR2a0020_WYG_075-23a>¶
 　魏書卷七十五考證¶
 尒朱天光𫝊天光有定關西之功差不酷暴○(臣人龍/)¶
@@ -416,4 +419,3 @@
 　¶
 　¶
 　魏書卷七十五考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:20:32.854092
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三
 <pb:KR2a0020_WYG_013-1a>¶
 欽定四庫全書¶
 　魏書卷十三¶
@@ -434,6 +436,7 @@
 　¶
 　¶
 　魏書卷十三¶
+#+PROPERTY: JUAN 卷十三考證
 <pb:KR2a0020_WYG_013-25a>¶
 　魏書卷十三考證¶
 皇后列𫝊○魏收書亡後人所補¶
@@ -452,4 +455,3 @@
 　¶
 　¶
 　魏書卷十三考證¶
-

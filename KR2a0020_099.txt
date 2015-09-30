@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 99
+#+DATE: 2015-08-24 22:20:34.650431
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十九
 <pb:KR2a0020_WYG_099-1a>¶
 欽定四庫全書¶
 　魏書卷九十九¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　魏書卷九十九¶
+#+PROPERTY: JUAN 卷九十九考證
 <pb:KR2a0020_WYG_099-24a>¶
 　魏書卷九十九考證¶
 張寔傳茂妻弟賈模○(臣人龍/)按晋書張茂傳云凉州¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　魏書卷九十九考證¶
-

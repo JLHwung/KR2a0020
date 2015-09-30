@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:20:32.665522
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四上
 <pb:KR2a0020_WYG_004-1a>¶
 欽定四庫全書¶
 　魏書卷四上¶
@@ -488,6 +490,7 @@
 　¶
 　¶
 　魏書卷四上¶
+#+PROPERTY: JUAN 卷四上考證
 <pb:KR2a0020_WYG_004-28a>¶
 　魏書卷四上考證¶
 世祖紀初造新字千餘○(臣人龍/)按本書太祖紀天興¶
@@ -506,6 +509,7 @@
 　¶
 　¶
 　魏書卷四上考證¶
+#+PROPERTY: JUAN 卷四下
 <pb:KR2a0020_WYG_004-29a>¶
 欽定四庫全書¶
 　魏書卷四下¶
@@ -884,6 +888,7 @@
 　¶
 　¶
 　魏書卷四下¶
+#+PROPERTY: JUAN 卷四下考證
 <pb:KR2a0020_WYG_004-50a>¶
 　魏書卷四下考證¶
 世祖紀明於刑賞功者賞不遺賤罪者刑不避親○賤¶
@@ -902,4 +907,3 @@
 　¶
 　¶
 　魏書卷四下考證¶
-

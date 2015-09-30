@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:20:32.897051
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR2a0020_WYG_015-1a>¶
 欽定四庫全書¶
 　魏書卷十五¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　魏書卷十五¶
+#+PROPERTY: JUAN 卷十五考證
 <pb:KR2a0020_WYG_015-23a>¶
 　魏書卷十五考證¶
 昭成子孫列傳○魏收書亡後人所補¶
@@ -416,4 +419,3 @@
 　建子琛是琛為虔之曾孫也此則虔弟覬覬子崘崘¶
 　子琛又為虔之從孫矣互異如此¶
 　魏書卷十五考證¶
-

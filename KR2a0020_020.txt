@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 20
+#+DATE: 2015-08-24 22:20:33.000820
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十
 <pb:KR2a0020_WYG_020-1a>¶
 欽定四庫全書¶
 　魏書卷二十¶
@@ -146,6 +148,7 @@
 　¶
 　¶
 　魏書卷二十¶
+#+PROPERTY: JUAN 卷二十考證
 <pb:KR2a0020_WYG_020-9a>¶
 　魏書卷二十考證¶
 文成五王列傳○魏收書闕後人所補¶
@@ -164,4 +167,3 @@
 　¶
 　¶
 　魏書卷二十考證¶
-

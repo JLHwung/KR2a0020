@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 53
+#+DATE: 2015-08-24 22:20:33.641569
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十三
 <pb:KR2a0020_WYG_053-1a>¶
 欽定四庫全書¶
 　魏書卷五十三¶
@@ -560,6 +562,7 @@
 　¶
 　¶
 　魏書卷五十三¶
+#+PROPERTY: JUAN 卷五十三考證
 <pb:KR2a0020_WYG_053-32a>¶
 　魏書卷五十三考證¶
 列傳第四十一○高氏小史魏書列傳第四十五高祐¶
@@ -578,4 +581,3 @@
 　¶
 　¶
 　魏書卷五十三考證¶
-

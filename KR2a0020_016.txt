@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:20:32.917931
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR2a0020_WYG_016-1a>¶
 欽定四庫全書¶
 　魏書卷十六¶
@@ -470,6 +472,7 @@
 髙祖繼受任太和茍無其才名位豈徒及也义階緣寵¶
 私智小謀大任重才弱遂亂天下殺身全祀不亦幸哉¶
 　魏書卷十六¶
+#+PROPERTY: JUAN 卷十六考證
 <pb:KR2a0020_WYG_016-27a>¶
 　魏書卷十六考證¶
 陽平王熙傳鎮遠將軍東海太守帶峒峿戍主○前漢¶
@@ -506,4 +509,3 @@
 　¶
 　¶
 　魏書卷十六考證¶
-

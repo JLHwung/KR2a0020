@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 94
+#+DATE: 2015-08-24 22:20:34.499328
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十四
 <pb:KR2a0020_WYG_094-1a>¶
 欽定四庫全書¶
 　魏書卷九十四¶
@@ -542,6 +544,7 @@
 　¶
 　¶
 　魏書卷九十四¶
+#+PROPERTY: JUAN 卷九十四考證
 <pb:KR2a0020_WYG_094-31a>¶
 　魏書卷九十四考證¶
 劉騰傳假言持肅宗書○持監本訛作又一本作侍亦¶
@@ -560,4 +563,3 @@
 　¶
 　¶
 　魏書卷九十四考證¶
-

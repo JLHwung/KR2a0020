@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 23
+#+DATE: 2015-08-24 22:20:33.055165
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十三
 <pb:KR2a0020_WYG_023-1a>¶
 欽定四庫全書¶
 　魏書卷二十三¶
@@ -182,6 +184,7 @@
 　¶
 　¶
 　魏書卷二十三¶
+#+PROPERTY: JUAN 卷二十三考證
 <pb:KR2a0020_WYG_023-11a>¶
 　魏書卷二十三考證¶
 衛操等列傳論自立功之地○功字下北史有名字應¶
@@ -200,4 +203,3 @@
 　¶
 　¶
 　魏書卷二十三考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 43
+#+DATE: 2015-08-24 22:20:33.440440
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十三
 <pb:KR2a0020_WYG_043-1a>¶
 欽定四庫全書¶
 　魏書卷四十三¶
@@ -560,6 +562,7 @@
 歸身著績休賓窮而委質法壽伯玉末能投命景伯兄¶
 弟儒風雅業良可稱焉¶
 　魏書卷四十三¶
+#+PROPERTY: JUAN 卷四十三考證
 <pb:KR2a0020_WYG_043-32a>¶
 　魏書卷四十三考證¶
 劉休賓傳母子皆出家為尼○北史母子皆出家為尼¶
@@ -578,4 +581,3 @@
 　¶
 　¶
 　魏書卷四十三考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 32
+#+DATE: 2015-08-24 22:20:33.220744
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十二
 <pb:KR2a0020_WYG_032-1a>¶
 欽定四庫全書¶
 　魏書卷三十二¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　魏書卷三十二¶
+#+PROPERTY: JUAN 卷三十二考證
 <pb:KR2a0020_WYG_032-23a>¶
 　魏書卷三十二考證¶
 髙湖傳拔弟䐗兒○(臣人龍/)按傳無拔事而載拔弟䐗¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　魏書卷三十二考證¶
-

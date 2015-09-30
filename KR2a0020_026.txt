@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 26
+#+DATE: 2015-08-24 22:20:33.098532
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十六
 <pb:KR2a0020_WYG_026-1a>¶
 欽定四庫全書¶
 　魏書卷二十六¶
@@ -236,6 +238,7 @@
 　¶
 　¶
 　魏書卷二十六¶
+#+PROPERTY: JUAN 卷二十六考證
 <pb:KR2a0020_WYG_026-14a>¶
 　魏書卷二十六考證¶
 尉古真𫝊擊蠕蠕别帥阿伏干於祚山○本卷上文世¶
@@ -254,4 +257,3 @@
 　¶
 　¶
 　魏書卷二十六考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 113
+#+DATE: 2015-08-24 22:20:35.089040
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百一十三
 <pb:KR2a0020_WYG_113-1a>¶
 欽定四庫全書¶
 　魏書卷一百一十三¶
@@ -920,6 +922,7 @@
 侍中穆詔尚書元長等量定之¶
 　¶
 　魏書卷一百一十三¶
+#+PROPERTY: JUAN 卷一百十三考證
 <pb:KR2a0020_WYG_113-52a>¶
 　魏書卷一百十三考證¶
 第五品平漢將軍○漢各本訛作漠今改正¶
@@ -938,4 +941,3 @@
 　¶
 　¶
 　魏書卷一百十三考證¶
-

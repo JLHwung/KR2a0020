@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 93
+#+DATE: 2015-08-24 22:20:34.469117
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十三
 <pb:KR2a0020_WYG_093-1a>¶
 欽定四庫全書¶
 　魏書卷九十三¶
@@ -506,6 +508,7 @@
 史臣曰(闕/)¶
 　¶
 　魏書卷九十三¶
+#+PROPERTY: JUAN 卷九十三考證
 <pb:KR2a0020_WYG_093-29a>¶
 　魏書卷九十三考證¶
 王叡傳都督尉勞汾胡○尉北史作慰¶
@@ -524,4 +527,3 @@
 　¶
 　¶
 　魏書卷九十三考證¶
-

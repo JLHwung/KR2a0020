@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 52
+#+DATE: 2015-08-24 22:20:33.619048
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十二
 <pb:KR2a0020_WYG_052-1a>¶
 欽定四庫全書¶
 　魏書卷五十二¶
@@ -452,6 +454,7 @@
 　¶
 　¶
 　魏書卷五十二¶
+#+PROPERTY: JUAN 卷五十二考證
 <pb:KR2a0020_WYG_052-26a>¶
 　魏書卷五十二考證¶
 宗欽傳宗欽○宗監本訛作宋今改正¶
@@ -470,4 +473,3 @@
 　¶
 　¶
 　魏書卷五十二考證¶
-

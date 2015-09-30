@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 44
+#+DATE: 2015-08-24 22:20:33.465907
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十四
 <pb:KR2a0020_WYG_044-1a>¶
 欽定四庫全書¶
 　魏書卷四十四¶
@@ -452,6 +454,7 @@
 　¶
 　¶
 　魏書卷四十四¶
+#+PROPERTY: JUAN 卷四十四考證
 <pb:KR2a0020_WYG_044-26a>¶
 　魏書卷四十四考證¶
 羅結傳子延天興中驃騎將軍左光祿大夫○(臣人龍/)¶
@@ -470,4 +473,3 @@
 　¶
 　¶
 　魏書卷四十四考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 59
+#+DATE: 2015-08-24 22:20:33.777222
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十九
 <pb:KR2a0020_WYG_059-1a>¶
 欽定四庫全書¶
 　魏書卷五十九¶
@@ -506,6 +508,7 @@
 　¶
 　¶
 　魏書卷五十九¶
+#+PROPERTY: JUAN 卷五十九考證
 <pb:KR2a0020_WYG_059-29a>¶
 　魏書卷五十九考證¶
 蕭寳夤傳誰復掌其勤墮○墮與惰通禮月令曰民氣¶
@@ -524,4 +527,3 @@
 　¶
 　¶
 　魏書卷五十九考證¶
-

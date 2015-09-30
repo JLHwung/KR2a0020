@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:20:32.713118
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR2a0020_WYG_006-1a>¶
 欽定四庫全書¶
 　魏書卷六¶
@@ -164,6 +166,7 @@
 　¶
 　¶
 　魏書卷六¶
+#+PROPERTY: JUAN 卷六考證
 <pb:KR2a0020_WYG_006-10a>¶
 　魏書卷六考證¶
 顯祖紀廣陵公侯窮竒○前云給事中京兆侯張窮竒¶
@@ -182,4 +185,3 @@
 　¶
 　¶
 　魏書卷六考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 77
+#+DATE: 2015-08-24 22:20:34.141225
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十七
 <pb:KR2a0020_WYG_077-1a>¶
 欽定四庫全書¶
 　魏書卷七十七¶
@@ -704,6 +706,7 @@
 崇明濟爲用謙之兄弟咸政事之敏飾學有聞列于朝¶
 廷豈徒然也深失之晚節至于顛覆惜乎¶
 　魏書卷七十七¶
+#+PROPERTY: JUAN 卷七十七考證
 <pb:KR2a0020_WYG_077-40a>¶
 　魏書卷七十七考證¶
 羊深傳羊深字文淵太山平陽人梁州刺史祉第二子¶
@@ -722,4 +725,3 @@
 　¶
 　¶
 　魏書卷七十七考證¶
-

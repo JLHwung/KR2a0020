@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 74
+#+DATE: 2015-08-24 22:20:34.091352
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十四
 <pb:KR2a0020_WYG_074-1a>¶
 欽定四庫全書¶
 　魏書卷七十四¶
@@ -380,6 +382,7 @@
 　¶
 　¶
 　魏書卷七十四¶
+#+PROPERTY: JUAN 卷七十四考證
 <pb:KR2a0020_WYG_074-22a>¶
 　魏書卷七十四考證¶
 尒朱榮傳三厯與日月惟休金鼎共乾坤俱永○三應¶
@@ -398,4 +401,3 @@
 　¶
 　¶
 　魏書卷七十四考證¶
-

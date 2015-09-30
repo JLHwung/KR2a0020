@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 64
+#+DATE: 2015-08-24 22:20:33.873142
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十四
 <pb:KR2a0020_WYG_064-1a>¶
 欽定四庫全書¶
 　魏書卷六十四¶
@@ -344,6 +346,7 @@
 　¶
 　¶
 　魏書卷六十四¶
+#+PROPERTY: JUAN 卷六十四考證
 <pb:KR2a0020_WYG_064-20a>¶
 　魏書卷六十四考證¶
 張彛傳大起第宅徽號華侈頗侮其踈宗舊戚○徽北¶
@@ -362,4 +365,3 @@
 　¶
 　¶
 　魏書卷六十四考證¶
-

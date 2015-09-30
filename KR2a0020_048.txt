@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 魏書
-#+DATE: 2015-09-23 09:41:50
-#+PROPERTY: JUAN 48
+#+DATE: 2015-08-24 22:20:33.551246
+#+PROPERTY: ID KR2a0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十八
 <pb:KR2a0020_WYG_048-1a>¶
 欽定四庫全書¶
 　魏書卷四十八¶
@@ -596,6 +598,7 @@
 四世終享百齡有魏以來斯人而已僧裕學治有聞聿¶
 脩之義也¶
 　魏書卷四十八¶
+#+PROPERTY: JUAN 卷四十八考證
 <pb:KR2a0020_WYG_048-34a>¶
 　魏書卷四十八考證¶
 髙允傳賦詩以訊○訊監本作迅今改正¶
@@ -614,4 +617,3 @@
 　¶
 　¶
 　魏書卷四十八考證¶
-
